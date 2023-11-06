@@ -27,14 +27,13 @@ The Travel World website is designed to provide information about popular travel
 
 - `index.html`: The main HTML file containing the website structure and content.<br>
 - `style.css`: The CSS file for styling the website.<br>
-- `script.js`: JavaScript file (currently empty) for adding interactivity (not utilized in the provided code).<br>
 - Image files: Contains images used on the website.<br>
 
 
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).<br>
+This project is open-source.<br>
 
 Feel free to customize and use this code as a starting point for your travel agency website.<br>
 
